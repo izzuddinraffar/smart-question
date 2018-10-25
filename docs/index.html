@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="http://cloudhub.my/css/index.css">
+<link rel="stylesheet" type="text/css" href="http://cloudhub.my/library/smart_question/smart_question.css">
+<link rel="stylesheet" type="text/css" href="firework.css">
+<link rel="stylesheet" type="text/css" href="http://cloudhub.my/library/literallycanvas/lib/css/literallycanvas.css">
+
+
+<style>
+    body{
+        padding:0px 200px;
+    }
+
+    img{
+        max-width: 100%;
+    }
+
+    .td-icon-item {
+         /* width: 50px; */
+         display: flex;
+         align-items: center;
+         justify-content: end;
+         display: inline-flex;
+     }
+ 
+     .td-icon-item .tdi-icon {
+         border: solid 1px #428cc6;
+         width: 40px;
+         height: 40px;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+         border-radius: 50%;
+         color: #428cc6;
+         font-size: 20px;
+         min-width: 40px;
+     }
+ 
+     .td-icon-item .tdi-text {
+         border: solid 1px #7ab8e8;
+         border-left: none;
+         border-radius: 0px 3px 3px 0px;
+         font-size: 11px;
+         font-weight: bold;
+         min-height: 26px;
+         display: flex;
+         align-items: center;
+         padding: 0px 7px;
+         margin-left: -5px;
+         background: #ffffff;
+         color: #428cc6;
+     }
+
+
+     @media only screen and (max-width: 960px) {
+            body{
+                padding:0px 10px;
+            }
+    }
+
+    @media only screen and (max-width: 500px) {
+            body{
+                padding:0px 0px;
+            }
+    }
+
+    .pyro {
+        width: 100px;
+        height: 100px;
+        position: absolute;
+        right: 0px;
+        bottom: 90px;
+        z-index: 3;
+    }
+    
+   .view-wrapper .view-msg{
+        position: absolute;
+        right: 0;
+        background: #fff;
+        bottom: 100px;
+        padding: 16px;
+        border-radius: 3px;
+        border: 1px solid rgba(0, 0, 0, 0.1);
+        box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.1);
+        z-index: 2;
+   } 
+
+   .view-wrapper .view-msg .msg-icon i.good{
+        font-size: 50px;
+        color: #FFC12C;
+   }
+
+   .view-wrapper .view-msg .msg-icon i.bad{
+        font-size: 50px;
+        color: #63d9ea;
+   }
+
+   .view-wrapper .view-msg .msg-content{
+       padding-left:16px;
+   }
+
+   .view-wrapper .view-msg .msg-content .title{
+       font-size: 17px;
+       font-weight:bold;
+   }
+
+   .view-wrapper .view-msg .msg-content .desc{
+       font-size: 14px;
+   }
+
+   .view-wrapper .view-msg .msg-close{
+        padding-left: 16px;
+        color: #9e9e9e;
+        font-size: 16px;
+        cursor: pointer;
+   }
+   .view-wrapper .view-msg .msg-close:hover{
+        color: #666;
+   }
+
+   .view-wrapper .view-msg .btn-skipped{
+        color: #71B307;
+        cursor: pointer;
+   }
+</style>
+
+
+<div id="questionView" data-type="answer" class="tpl-wrapper view-wrapper" style="display: block">
+
+</div>
+
+
+
+
+</body>
+</html>
+   
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="http://cloudhub.my/library/tinymce/tinymce.min.js"></script>
+<script src="http://cloudhub.my/library/sortable_master/Sortable.min.js"></script>
+<script src="http://cloudhub.my/app/simpana/layout/question_add/test/question_core.js"></script>
+<script src="http://cloudhub.my/library/literallycanvas/lib/js/literallycanvas-core.js"></script>
+<script src="http://cloudhub.my/library/smart_question/smart_question.js"></script>
+<script src="http://cloudhub.my/library/smart_question/demo/question_action.js"></script>
+
+
+
+
