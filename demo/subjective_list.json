@@ -1,0 +1,212 @@
+[
+    {
+        "parent":{
+            "id":"6136",
+            "code":"EQUPSRMT006136",
+            "question":"Rajah 3 menunjukkan waktu sebuah bas bertolak ke Pulau Pinang pada suatu malam.<br />\r\nPerjalanan ke Pulau Pinang mengambil masa 6.25 jam.",
+            "file":"https://hometutor.com.my/main/simpana/images/0/0/6/1/3/6/006136-239176aa89251a486fd42b8c9e0db5df60015f6e.png",
+            "score":"3.00"
+        },
+       "question":{
+          "id":"6138",
+          "code":"EQUPSRMT006138",
+          "question":"Tukarkan waktu bertolak kepada sistem 24 jam.",
+          "file":null,
+          "score":"1.00",
+          "parent_id":"6136"
+       },
+       "answer":[
+          {
+             "answer_option":null,
+             "is_correct_answer":"1"
+          }
+       ],
+       "scheme":{
+          "id":"25256",
+          "text":"jam 2215",
+          "content":null,
+          "file":"",
+          "seq":null,
+          "descriptionList":[
+             {
+                "text":"<div>10:15 p.m ➞ dalam sistem 24 jam</div>\r\n<div>= 10:15 + 12:00</div>\r\n<div>= jam 2215</div>",
+                "content":null,
+                "file":null
+             }
+          ]
+       },
+       "hint":[
+ 
+       ],
+       "properties":{
+          "type":"Child",
+          "name":null,
+          "category":"multiple",
+          "instrument":{
+             "type":{
+                "id":2,
+                "name":"Subjective"
+             },
+             "name":null,
+             "item":{
+                "id":2,
+                "name":"Respons Terbuka",
+                "type":"subjective"
+             }
+          },
+          "construct":[
+ 
+          ],
+          "lts":[
+ 
+          ],
+          "competency_level":"1"
+       },
+       "source":{
+          "by":"Penerbitan Pelangi Sdn. Bhd",
+          "type":"pelangi",
+          "reference_name":"Focus UPSR Tahun 4, 5, 6",
+          "reference_type":"Book",
+          "contributor_name":null,
+          "contributor_type":null
+       }
+    },
+    {
+        "parent":{
+            "id":"6136",
+            "code":"EQUPSRMT006136",
+            "question":"Rajah 3 menunjukkan waktu sebuah bas bertolak ke Pulau Pinang pada suatu malam.<br />\r\nPerjalanan ke Pulau Pinang mengambil masa 6.25 jam.",
+            "file":"https://hometutor.com.my/main/simpana/images/0/0/6/1/3/6/006136-239176aa89251a486fd42b8c9e0db5df60015f6e.png",
+            "score":"3.00"
+        },
+       "question":{
+          "id":"6140",
+          "code":"EQUPSRMT006140",
+          "question":"Pada jam berapakah bas dijangka akan tiba di Pulau Pinang jika dia berhenti berehat selama 1/2 jam.&nbsp;",
+          "score":"2.00",
+          "file":null,
+          "parent_id":"6136"
+       },
+       "answer":[
+          {
+             "answer_option":null,
+             "is_correct_answer":"1"
+          }
+       ],
+       "scheme":{
+          "id":"25258",
+          "text":"jam 0500",
+          "content":null,
+          "file":null,
+          "seq":null,
+          "descriptionList":[
+             {
+                "text":null,
+                "content":null,
+                "file":"https://hometutor.com.my/main/simpana/images/0/0/6/1/4/0/006140-89c8c9c048ea45eb5f0a4742d050b9cb4bf18b86.png"
+             }
+          ]
+       },
+       "hint":[
+ 
+       ],
+       "properties":{
+          "type":"Child",
+          "name":null,
+          "category":"multiple",
+          "instrument":{
+             "type":{
+                "id":2,
+                "name":"Subjective"
+             },
+             "name":null,
+             "item":{
+                "id":2,
+                "name":"Respons Terbuka",
+                "type":"subjective"
+             }
+          },
+          "construct":[
+ 
+          ],
+          "lts":[
+ 
+          ],
+          "competency_level":"1"
+       },
+       "source":{
+          "by":"Penerbitan Pelangi Sdn. Bhd",
+          "type":"pelangi",
+          "reference_name":"Focus UPSR Tahun 4, 5, 6",
+          "reference_type":"Book",
+          "contributor_name":null,
+          "contributor_type":null
+       }
+    },
+    {
+        "parent":{
+            "id":"6143",
+            "code":"EQUPSRMT006143",
+            "question":"Rajah 4 menunjukkan jisim bagi sebiji tembikai yang dibeli oleh Puan Mariam.",
+            "file":"https://hometutor.com.my/main/simpana/images/0/0/6/1/4/3/006143-ad564179ebb1f3e5efb6cde7b1c762fff6fa85d3.png",
+            "score":"4.00"
+        },
+       "question":{
+          "id":"6150",
+          "code":"EQUPSRMT006150",
+          "question":"Harga bagi satu kilogram tembikai ialah RM4.20. Berapakah jumlah harga yang perlu dibayar bagi sebiji tembikai itu?",
+          "file":null,
+          "score":"2.00",
+          "parent_id":"6143"
+       },
+       "scheme":{
+          "id":"25274",
+          "text":"RM14.70",
+          "content":null,
+          "file":"",
+          "seq":null,
+          "descriptionList":[
+             {
+                "text":"Harga bagi sebiji tembikai</div>\r\n<div>= 3.5 &times; RM4.20</div>\r\n<div>= RM14.70</div>",
+                "content":null,
+                "file":null
+             }
+          ]
+       },
+       "hint":[
+ 
+       ],
+       "properties":{
+          "type":"Child",
+          "name":null,
+          "category":"multiple",
+          "instrument":{
+             "type":{
+                "id":2,
+                "name":"Subjective"
+             },
+             "name":null,
+             "item":{
+                "id":2,
+                "name":"Respons Terbuka",
+                "type":"subjective"
+             }
+          },
+          "construct":[
+ 
+          ],
+          "lts":[
+ 
+          ],
+          "competency_level":"1"
+       },
+       "source":{
+          "by":"Penerbitan Pelangi Sdn. Bhd",
+          "type":"pelangi",
+          "reference_name":"Focus UPSR Tahun 4, 5, 6",
+          "reference_type":"Book",
+          "contributor_name":null,
+          "contributor_type":null
+       }
+    }
+ ]

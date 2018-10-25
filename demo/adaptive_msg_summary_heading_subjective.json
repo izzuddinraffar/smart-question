@@ -1,0 +1,19 @@
+{
+    "items" : [
+        {
+            "id" : 1,
+            "content" : "Develop a <span class='summary-green'>passion</span> for learning.",
+            "result_state" : "unskilled"
+        },
+        {
+            "id" : 2,
+            "content" : "You don't <span class='summary-green'>learn</span> to walk by following <span class='summary-green'>rules</span>.",
+            "result_state" : "practiced"
+        },
+        {
+            "id" : 3,
+            "content" : "Nice work!",
+            "result_state" : "mastered"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "items" : [
+        {
+            "id" : 2,
+            "content" : "Correct [error] spelling, or <span class='btn-skipped'>skip and check</span>.",
+            "answer_state" : "wrong",
+            "filter_id" : [],
+            "cond" : "any"
+        },
+        {
+            "id" : 12,
+            "content" : "You got it. [more] more!",
+            "answer_state" : "correct rectify",
+            "filter_id" : [],
+            "cond" : "any"
+        },
+        {
+            "id" : 13,
+            "content" : "[done] questions done, keep going!",
+            "answer_state" : "correct rectify",
+            "filter_id" : [],
+            "cond" : "any"
+        },
+        {
+            "id" : 14,
+            "content" : "Keep it up for [more] more.",
+            "answer_state" : "correct rectify",
+            "filter_id" : [],
+            "cond" : "any"
+        },
+        {
+            "id" : 15,
+            "content" : "Great that you stuck with it. Onward!",
+            "answer_state" : "correct",
+            "filter_id" : [],
+            "cond" : "always"
+        },
+        {
+            "id" : 16,
+            "content" : "You got it. Onward!",
+            "answer_state" : "correct",
+            "filter_id" : [],
+            "cond" : "end"
+        }
+    ]
+}

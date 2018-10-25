@@ -1,0 +1,29 @@
+{
+    "items" : [
+        {
+            "id" : 1,
+            "content" : "Keep trying!",
+            "result_state" : "unskilled"
+        },
+        {
+            "id" : 2,
+            "content" : "Great try... stick with it!",
+            "result_state" : "unskilled"
+        },
+        {
+            "id" : 3,
+            "content" : "Not yet... keep going!",
+            "result_state" : "unskilled"
+        },
+        {
+            "id" : 4,
+            "content" : "Get <span class='summary-green'>{total} correct </span> to reach  <span class='summary-green'>100%</span>",
+            "result_state" : "practiced"
+        },
+        {
+            "id" : 5,
+            "content" : "You got <span class='summary-green'>{total}</span> out of {total} correct.",
+            "result_state" : "mastered"
+        }
+    ]
+}

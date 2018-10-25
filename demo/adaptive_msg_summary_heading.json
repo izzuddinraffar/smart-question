@@ -1,0 +1,19 @@
+{
+    "items" : [
+        {
+            "id" : 1,
+            "content" : "Get <span class='summary-green'>{total} correct</span> to reach <span class='summary-green'>Practiced</span>.",
+            "result_state" : "unskilled"
+        },
+        {
+            "id" : 2,
+            "content" : "You reached Practiced!",
+            "result_state" : "practiced"
+        },
+        {
+            "id" : 3,
+            "content" : "Nice work!",
+            "result_state" : "mastered"
+        }
+    ]
+}

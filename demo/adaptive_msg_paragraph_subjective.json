@@ -1,0 +1,18 @@
+{
+    "items" : [
+        {
+            "id" : 2,
+            "content" : "Correct [error] spelling, or <span class='btn-skipped'>skip and check</span>.",
+            "answer_state" : "wrong",
+            "filter_id" : [],
+            "cond" : "any"
+        },
+        {
+            "id" : 12,
+            "content" : "<span class='btn-showscheme'>Or see how we answered this question.</span>",
+            "answer_state" : "correct rectify",
+            "filter_id" : [],
+            "cond" : "any"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "items" : [
+        {
+            "id" : 1,
+            "content" : "If you do, you will <span class='summary-green'>never cease</span> to grow.",
+            "result_state" : "unskilled"
+        },
+        {
+            "id" : 2,
+            "content" : "You learn by <span class='summary-green'>doing</span>, and by <span class='summary-green'>falling over</span>.",
+            "result_state" : "practiced"
+        },
+        {
+            "id" : 3,
+            "content" : "Learning never <span class='summary-green'>exhausts</span> the mind.",
+            "result_state" : "mastered"
+        }
+    ]
+}

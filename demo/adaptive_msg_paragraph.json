@@ -1,0 +1,88 @@
+{
+    "items" : [
+        {
+            "id" : 2,
+            "content" : "Try again, <span class='btn-gethelp'>Get help</span>, or <span class='btn-skipped'>move on</span>.",
+            "answer_state" : "wrong",
+            "filter_id" : [],
+            "cond" : "any"
+        },
+        {
+            "id" : 3,
+            "content" : "Try again, <span class='btn-gethelp'>Get help</span>, or <span class='btn-skipped'>skip for now</span>.",
+            "answer_state" : "wrong",
+            "filter_id" : [],
+            "cond" : "any"
+        },
+        {
+            "id" : 4,
+            "content" : "Try again, or <span class='btn-skipped'>move on</span>.",
+            "answer_state" : "wrong",
+            "filter_id" : [],
+            "cond" : "no_reference"
+        },
+        {
+            "id" : 6,
+            "content" : "You got it, keep up the great persistence.",
+            "answer_state" : "correct",
+            "filter_id" : [],
+            "cond" : "any"
+        },
+        {
+            "id" : 7,
+            "content" : "Keep up the great persistence!",
+            "answer_state" : "correct",
+            "filter_id" : [],
+            "cond" : "any"
+        },
+        {
+            "id" : 8,
+            "content" : "That's the right answer. Keep practicing!",
+            "answer_state" : "correct rectify",
+            "filter_id" : [],
+            "cond" : "any"
+        },
+        {
+            "id" : 10,
+            "content" : "Looks like you know this pretty well!",
+            "answer_state" : "correct",
+            "filter_id" : [],
+            "cond" : "any"
+        },
+        {
+            "id" : 12,
+            "content" : "You got it. [more] more!",
+            "answer_state" : "correct rectify",
+            "filter_id" : [],
+            "cond" : "any"
+        },
+        {
+            "id" : 13,
+            "content" : "[done] questions done, keep going!",
+            "answer_state" : "correct rectify",
+            "filter_id" : [],
+            "cond" : "any"
+        },
+        {
+            "id" : 14,
+            "content" : "Keep it up for [more] more.",
+            "answer_state" : "correct rectify",
+            "filter_id" : [],
+            "cond" : "any"
+        },
+        {
+            "id" : 15,
+            "content" : "Great that you stuck with it. Onward!",
+            "answer_state" : "correct",
+            "filter_id" : [],
+            "cond" : "always"
+        },
+        {
+            "id" : 16,
+            "content" : "You got it. Onward!",
+            "answer_state" : "correct",
+            "filter_id" : [],
+            "cond" : "end"
+        }
+    ]
+}

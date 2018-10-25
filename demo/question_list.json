@@ -1,0 +1,966 @@
+[
+    {
+       "question":{
+          "id":"116482",
+          "code":"QPT3GEO116482",
+          "content":null,
+          "file":"https://hometutor.com.my/main/simpana/images/1/1/6/4/8/2/116482-6597e07521438f8eeff7d0ceced887adec7cb926.png",
+          "question":"Amalan di atas merupakan langkah untuk mengurangkan kesan pembuangan sisa domestik. Apakah amalan tersebut?",
+          "seq":null,
+          "is_active":"1",
+          "is_published":"0",
+          "approval_status":"2"
+       },
+       "answer":[
+          {
+             "id":"624970",
+             "content":null,
+             "answer_option":"Kurangkan",
+             "file":null,
+             "is_correct_answer":"0",
+             "seq":null,
+             "assign":null,
+             "descriptionList":[
+ 
+             ]
+          },
+          {
+             "id":"624971",
+             "content":null,
+             "answer_option":"Guna semula",
+             "file":null,
+             "is_correct_answer":"1",
+             "seq":null,
+             "assign":null,
+             "descriptionList":[
+                {
+                   "text":"Menggunakan semula bekas minuman untuk aktiviti berkebun.\r\n<div>&nbsp;</div>",
+                   "content":null,
+                   "file":null
+                }
+             ]
+          },
+          {
+             "id":"624972",
+             "content":null,
+             "answer_option":"Kitar semula",
+             "file":null,
+             "is_correct_answer":"0",
+             "seq":null,
+             "assign":null,
+             "descriptionList":[
+ 
+             ]
+          },
+          {
+             "id":"624973",
+             "content":null,
+             "answer_option":"Proses semula",
+             "file":null,
+             "is_correct_answer":"0",
+             "seq":null,
+             "assign":null,
+             "descriptionList":[
+ 
+             ]
+          }
+       ],
+       "scheme":{
+          "text":null,
+          "content":null,
+          "file":null,
+          "seq":null,
+          "descriptionList":[
+             {
+                "text":"Menggunakan semula bekas minuman untuk aktiviti berkebun.\r\n<div>&nbsp;</div>",
+                "content":null,
+                "file":null
+             }
+          ]
+       },
+       "hint":[
+          {
+             "content":"hint 1",
+             "seq":null
+          },
+          {
+             "content":"hint 2",
+             "seq":null
+          },
+          {
+             "content":"hint 3",
+             "seq":null
+          }
+       ],
+       "topic":[
+          {
+             "id":"2709",
+             "name":"Sisa Domestik",
+             "level_id":"2"
+          }
+       ],
+       "subject":{
+          "id":"249",
+          "name":"Geografi",
+          "level_id":"1"
+       },
+       "level":{
+          "id":"11",
+          "name":"Form 1"
+       },
+       "upload":{
+          "by":"Shafini Azini",
+          "date":"28/08/2017",
+          "time":"04:22 AM"
+       },
+       "modify":{
+          "by":"Shafini Azini",
+          "date":"28/08/2017",
+          "time":"04:22 AM"
+       },
+       "approval":{
+          "by":null,
+          "date":"00/00/0000",
+          "time":"12:00 AM"
+       },
+       "published":{
+          "by":null,
+          "date":"00/00/0000",
+          "time":"12:00 AM"
+       },
+       "source":{
+          "by":"Penerbitan Pelangi Sdn. Bhd",
+          "type":"pelangi",
+          "reference_name":"Focus UPSR Tahun 4, 5, 6",
+          "reference_type":"Book",
+          "contributor_name":null,
+          "contributor_type":null
+       },
+       "properties":{
+          "type":null,
+          "name":null,
+          "category":"single",
+          "instrument":{
+             "type":{
+                "id":1,
+                "name":"Objective"
+             },
+             "name":"Memilih Respons",
+             "item":{
+                "id":1,
+                "name":"Aneka Pilihan",
+                "type":"mcq"
+             }
+          },
+          "construct":[
+ 
+          ],
+          "lts":[
+ 
+          ],
+          "competency_level":"2"
+       },
+       "answerSelected" : 624972,
+       "answered" : {
+          "detail" : 624972,
+          "state" : [ 0 ]
+       },
+       "indicator": {
+        "answerTimer": "0159",
+        "isAnwered": 1
+       }
+    },
+    {
+       "question":{
+          "id":"1164",
+          "code":"QPT3GEO116482",
+          "content":null,
+          "data":[
+             {
+                "id":"116482",
+                "content":"<strong>Isi tempat kosong dengan jawapan yang betul</strong>"
+             },
+             {
+                "id":"116486",
+                "content":"<strong>Taman, Ungu, Balqis</strong>"
+             },
+             {
+                "id":"116483",
+                "content":"Aminah berjumpa dengan kawannya di [ans1] .Namanya adalah [ans2]"
+             },
+             {
+                "id":"116484",
+                "content":"Baju Balqis berwarna [ans1]"
+             }
+          ],
+          "file":null,
+          "question":null,
+          "seq":null,
+          "is_active":"1",
+          "is_published":"0",
+          "approval_status":"2"
+       },
+       "answer":[
+          {
+             "id":"624970",
+             "content":"Taman",
+             "answer_option":null,
+             "file":null,
+             "is_correct_answer":"0",
+             "seq":null,
+             "assign":"116483 ans1",
+             "descriptionList":[
+                {
+                   "text":"Memang Jawapan dia",
+                   "content":null,
+                   "file":null
+                }
+             ],
+             "answerList":[
+                {
+                   "content":"Econsave"
+                },
+                {
+                   "content":"Tasik"
+                }
+             ]
+          },
+          {
+             "id":"624972",
+             "content":"Balqis",
+             "answer_option":null,
+             "file":null,
+             "is_correct_answer":"0",
+             "seq":null,
+             "assign":"116483 ans2",
+             "descriptionList":[
+                {
+                   "text":"Memang Jawapan dia",
+                   "content":null,
+                   "file":null
+                }
+             ],
+             "answerList":[
+                {
+                   "content":"Fakhri"
+                },
+                {
+                   "content":"Umi"
+                }
+             ]
+          },
+          {
+             "id":"624971",
+             "content":"Ungu",
+             "answer_option":null,
+             "file":null,
+             "is_correct_answer":"1",
+             "seq":null,
+             "assign":"116484 ans1",
+             "descriptionList":[
+                {
+                   "text":"Memang Jawapan dia",
+                   "content":null,
+                   "file":null
+                }
+             ],
+             "answerList":[
+                {
+                   "content":"Merah"
+                },
+                {
+                   "content":"Biru"
+                }
+             ]
+          }
+       ],
+       "scheme":{
+          "text":null,
+          "content":null,
+          "file":null,
+          "seq":null,
+          "descriptionList":[
+             {
+                "text":"Menggunakan semula bekas minuman untuk aktiviti berkebun.\r\n<div>&nbsp;</div>",
+                "content":null,
+                "file":null
+             }
+          ]
+       },
+       "hint":[
+ 
+       ],
+       "topic":[
+          {
+             "id":"2709",
+             "name":"Sisa Domestik",
+             "level_id":"2"
+          }
+       ],
+       "subject":{
+          "id":"249",
+          "name":"Geografi",
+          "level_id":"1"
+       },
+       "level":{
+          "id":"11",
+          "name":"Form 1"
+       },
+       "upload":{
+          "by":"Shafini Azini",
+          "date":"28/08/2017",
+          "time":"04:22 AM"
+       },
+       "modify":{
+          "by":"Shafini Azini",
+          "date":"28/08/2017",
+          "time":"04:22 AM"
+       },
+       "approval":{
+          "by":null,
+          "date":"00/00/0000",
+          "time":"12:00 AM"
+       },
+       "published":{
+          "by":null,
+          "date":"00/00/0000",
+          "time":"12:00 AM"
+       },
+       "source":{
+          "by":"Penerbitan Pelangi Sdn. Bhd",
+          "type":"pelangi",
+          "reference_name":"Focus UPSR Tahun 4, 5, 6",
+          "reference_type":"Book",
+          "contributor_name":null,
+          "contributor_type":null
+       },
+       "properties":{
+          "type":null,
+          "name":null,
+          "category":"single",
+          "instrument":{
+             "type":{
+                "id":1,
+                "name":"Objective"
+             },
+             "name":"Memilih Respons",
+             "item":{
+                "id":1,
+                "type":"isi_tempat_kosong",
+                "name":"Isi Tempat Kosong"
+             }
+          },
+          "construct":[
+ 
+          ],
+          "lts":[
+ 
+          ],
+          "competency_level":"2"
+       }
+    },
+    {
+       "question":{
+          "id":"1165",
+          "code":"QPT3GEO116482",
+          "content":null,
+          "data":[
+             {
+                "id":"116482",
+                "content":"<strong>Pilih penyataan betul/ salah.</strong>"
+             },
+             {
+                "id":"116483",
+                "content":"Kitab-kitab Allah adalah wahyu"
+             },
+             {
+                "id":"116484",
+                "content":"Kitab Taurat diturunkan kepada Nabi Daud"
+             }
+          ],
+          "file":null,
+          "question":null,
+          "seq":null,
+          "is_active":"1",
+          "is_published":"0",
+          "approval_status":"2"
+       },
+       "answer":[
+          {
+             "id":"624970",
+             "content":"True",
+             "answer_option":null,
+             "file":null,
+             "is_correct_answer":"0",
+             "seq":null,
+             "assign":"116483",
+             "descriptionList":[
+ 
+             ]
+          },
+          {
+             "id":"624971",
+             "content":"False",
+             "answer_option":null,
+             "file":null,
+             "is_correct_answer":"1",
+             "seq":null,
+             "assign":"116484",
+             "descriptionList":[
+                {
+                   "text":"Menggunakan semula bekas minuman untuk aktiviti berkebun.\r\n<div>&nbsp;</div>",
+                   "content":null,
+                   "file":null
+                }
+             ]
+          }
+       ],
+       "scheme":{
+          "text":null,
+          "content":null,
+          "file":null,
+          "seq":null,
+          "descriptionList":[
+             {
+                "text":"Menggunakan semula bekas minuman untuk aktiviti berkebun.\r\n<div>&nbsp;</div>",
+                "content":null,
+                "file":null
+             }
+          ]
+       },
+       "hint":[
+ 
+       ],
+       "topic":[
+          {
+             "id":"2709",
+             "name":"Sisa Domestik",
+             "level_id":"2"
+          }
+       ],
+       "subject":{
+          "id":"249",
+          "name":"Geografi",
+          "level_id":"1"
+       },
+       "level":{
+          "id":"11",
+          "name":"Form 1"
+       },
+       "upload":{
+          "by":"Shafini Azini",
+          "date":"28/08/2017",
+          "time":"04:22 AM"
+       },
+       "modify":{
+          "by":"Shafini Azini",
+          "date":"28/08/2017",
+          "time":"04:22 AM"
+       },
+       "approval":{
+          "by":null,
+          "date":"00/00/0000",
+          "time":"12:00 AM"
+       },
+       "published":{
+          "by":null,
+          "date":"00/00/0000",
+          "time":"12:00 AM"
+       },
+       "source":{
+          "by":"Penerbitan Pelangi Sdn. Bhd",
+          "type":"pelangi",
+          "reference_name":"Focus UPSR Tahun 4, 5, 6",
+          "reference_type":"Book",
+          "contributor_name":null,
+          "contributor_type":null
+       },
+       "properties":{
+          "type":null,
+          "name":null,
+          "category":"single",
+          "instrument":{
+             "type":{
+                "id":1,
+                "name":"Objective"
+             },
+             "name":"Memilih Respons",
+             "item":{
+                "id":1,
+                "type":"benar_palsu",
+                "name":"Benar Palsu"
+             }
+          },
+          "construct":[
+ 
+          ],
+          "lts":[
+ 
+          ],
+          "competency_level":"2"
+       }
+    },
+    {
+       "question":{
+          "id":"116483",
+          "code":"QPT3GEO116482",
+          "content":null,
+          "data":[
+             {
+                "id":"116482",
+                "content":"<strong>Susun semula perkataan dibawah.</strong>"
+             },
+             {
+                "id":"116483",
+                "content":"[mempunyai] [ladang] [Datuk] [itik]"
+             },
+             {
+                "id":"116484",
+                "content":"[dedak] [makan] [Datuk] [memberi] [itik]"
+             },
+             {
+                "id":"116485",
+                "content":"[telur] [mengutip] [itik] [Nenek]"
+             }
+          ],
+          "file":null,
+          "question":null,
+          "seq":null,
+          "is_active":"1",
+          "is_published":"0",
+          "approval_status":"2"
+       },
+       "answer":[
+          {
+             "id":"624970",
+             "content":"[Datuk] [mempunyai] [ladang] [itik]",
+             "answer_option":null,
+             "file":null,
+             "is_correct_answer":"0",
+             "seq":null,
+             "assign":"116483",
+             "descriptionList":[
+ 
+             ]
+          },
+          {
+             "id":"624971",
+             "content":"[Datuk] [memberi] [itik] [makan] [dedak] ",
+             "answer_option":null,
+             "file":null,
+             "is_correct_answer":"1",
+             "seq":null,
+             "assign":"116484",
+             "descriptionList":[
+                {
+                   "text":"Menggunakan semula bekas minuman untuk aktiviti berkebun.\r\n<div>&nbsp;</div>",
+                   "content":null,
+                   "file":null
+                }
+             ]
+          },
+          {
+             "id":"624972",
+             "content":"[Nenek] [mengutip] [telur] [itik]",
+             "answer_option":null,
+             "file":null,
+             "is_correct_answer":"1",
+             "seq":null,
+             "assign":"116485",
+             "descriptionList":[
+                {
+                   "text":"Menggunakan semula bekas minuman untuk aktiviti berkebun.\r\n<div>&nbsp;</div>",
+                   "content":null,
+                   "file":null
+                }
+             ]
+          }
+       ],
+       "scheme":{
+          "text":null,
+          "content":null,
+          "file":null,
+          "seq":null,
+          "descriptionList":[
+             {
+                "text":"Menggunakan semula bekas minuman untuk aktiviti berkebun.\r\n<div>&nbsp;</div>",
+                "content":null,
+                "file":null
+             }
+          ]
+       },
+       "hint":[
+ 
+       ],
+       "topic":[
+          {
+             "id":"2709",
+             "name":"Sisa Domestik",
+             "level_id":"2"
+          }
+       ],
+       "subject":{
+          "id":"249",
+          "name":"Geografi",
+          "level_id":"1"
+       },
+       "level":{
+          "id":"11",
+          "name":"Form 1"
+       },
+       "upload":{
+          "by":"Shafini Azini",
+          "date":"28/08/2017",
+          "time":"04:22 AM"
+       },
+       "modify":{
+          "by":"Shafini Azini",
+          "date":"28/08/2017",
+          "time":"04:22 AM"
+       },
+       "approval":{
+          "by":null,
+          "date":"00/00/0000",
+          "time":"12:00 AM"
+       },
+       "published":{
+          "by":null,
+          "date":"00/00/0000",
+          "time":"12:00 AM"
+       },
+       "source":{
+          "by":"Penerbitan Pelangi Sdn. Bhd",
+          "type":"pelangi",
+          "reference_name":"Focus UPSR Tahun 4, 5, 6",
+          "reference_type":"Book",
+          "contributor_name":null,
+          "contributor_type":null
+       },
+       "properties":{
+          "type":null,
+          "name":null,
+          "category":"single",
+          "instrument":{
+             "type":{
+                "id":1,
+                "name":"Objective"
+             },
+             "name":"Memilih Respons",
+             "item":{
+                "id":1,
+                "type":"susun_semula",
+                "name":"Susun Semula"
+             }
+          },
+          "construct":[
+ 
+          ],
+          "lts":[
+ 
+          ],
+          "competency_level":"2"
+       }
+    },
+    {
+       "question":{
+          "id":"1167",
+          "code":"QPT3GEO116482",
+          "content":null,
+          "data":[
+             {
+                "id":"116482",
+                "content":"<strong>Padankan istilah di kotak A kepada pernyataan di kotak B.</strong>"
+             }
+          ],
+          "file":null,
+          "question":null,
+          "seq":null,
+          "is_active":"1",
+          "is_published":"0",
+          "approval_status":"2"
+       },
+       "answer":[
+          {
+             "id":"624970",
+             "content":{
+                "left":"Untuk kehidupan yang lebih selesa",
+                "right":"Kehendak"
+             },
+             "answer_option":null,
+             "file":null,
+             "is_correct_answer":"0",
+             "seq":null,
+             "assign":null,
+             "descriptionList":[
+ 
+             ]
+          },
+          {
+             "id":"624971",
+             "content":{
+                "left":"Apa sahaja yang ditawarkan kepada pengguna",
+                "right":"Produk"
+             },
+             "answer_option":null,
+             "file":null,
+             "is_correct_answer":"1",
+             "seq":null,
+             "assign":null,
+             "descriptionList":[
+                {
+                   "text":"Menggunakan semula bekas minuman untuk aktiviti berkebun.\r\n<div>&nbsp;</div>",
+                   "content":null,
+                   "file":null
+                }
+             ]
+          },
+          {
+             "id":"624972",
+             "content":{
+                "left":"Asas kepada kehidupan manusia",
+                "right":"Keperluan"
+             },
+             "answer_option":null,
+             "file":null,
+             "is_correct_answer":"1",
+             "seq":null,
+             "assign":null,
+             "descriptionList":[
+                {
+                   "text":"Menggunakan semula bekas minuman untuk aktiviti berkebun.\r\n<div>&nbsp;</div>",
+                   "content":null,
+                   "file":null
+                }
+             ]
+          },
+          {
+             "id":"624973",
+             "content":{
+                "left":"Melibatkan pertukaran nilai antara dua pihak",
+                "right":"Urusniaga"
+             },
+             "answer_option":null,
+             "file":null,
+             "is_correct_answer":"1",
+             "seq":null,
+             "assign":null,
+             "descriptionList":[
+                {
+                   "text":"Menggunakan semula bekas minuman untuk aktiviti berkebun.\r\n<div>&nbsp;</div>",
+                   "content":null,
+                   "file":null
+                }
+             ]
+          }
+       ],
+       "scheme":{
+          "text":null,
+          "content":null,
+          "file":null,
+          "seq":null,
+          "descriptionList":[
+             {
+                "text":"Menggunakan semula bekas minuman untuk aktiviti berkebun.\r\n<div>&nbsp;</div>",
+                "content":null,
+                "file":null
+             }
+          ]
+       },
+       "hint":[
+ 
+       ],
+       "topic":[
+          {
+             "id":"2709",
+             "name":"Sisa Domestik",
+             "level_id":"2"
+          }
+       ],
+       "subject":{
+          "id":"249",
+          "name":"Geografi",
+          "level_id":"1"
+       },
+       "level":{
+          "id":"11",
+          "name":"Form 1"
+       },
+       "upload":{
+          "by":"Shafini Azini",
+          "date":"28/08/2017",
+          "time":"04:22 AM"
+       },
+       "modify":{
+          "by":"Shafini Azini",
+          "date":"28/08/2017",
+          "time":"04:22 AM"
+       },
+       "approval":{
+          "by":null,
+          "date":"00/00/0000",
+          "time":"12:00 AM"
+       },
+       "published":{
+          "by":null,
+          "date":"00/00/0000",
+          "time":"12:00 AM"
+       },
+       "source":{
+          "by":"Penerbitan Pelangi Sdn. Bhd",
+          "type":"pelangi",
+          "reference_name":"Focus UPSR Tahun 4, 5, 6",
+          "reference_type":"Book",
+          "contributor_name":null,
+          "contributor_type":null
+       },
+       "properties":{
+          "type":null,
+          "name":null,
+          "category":"single",
+          "instrument":{
+             "type":{
+                "id":1,
+                "name":"Objective"
+             },
+             "name":"Memilih Respons",
+             "item":{
+                "id":1,
+                "type":"padanan",
+                "name":"Padanan"
+             }
+          },
+          "construct":[
+ 
+          ],
+          "lts":[
+ 
+          ],
+          "competency_level":"2"
+       }
+    },
+    {
+       "question":{
+          "id":"6136",
+          "code":"EQUPSRMT006136",
+          "question":"Rajah 3 menunjukkan waktu sebuah bas bertolak ke Pulau Pinang pada suatu malam.<br />\r\nPerjalanan ke Pulau Pinang mengambil masa 6.25 jam.",
+          "file":"https://hometutor.com.my/main/simpana/images/0/0/6/1/3/6/006136-239176aa89251a486fd42b8c9e0db5df60015f6e.png",
+          "score":"3.00",
+          "is_parent":true
+       },
+       "scheme":{
+          "id":"25251",
+          "text":null,
+          "content":null,
+          "file":"",
+          "seq":null,
+          "descriptionList":[
+             {
+                "text":null,
+                "content":null,
+                "file":null
+             }
+          ]
+       },
+       "hint":[
+ 
+       ],
+       "properties":{
+          "type":"Parent",
+          "name":null,
+          "category":"multiple",
+          "instrument":{
+             "type":{
+                "id":2,
+                "name":"Subjective"
+             },
+             "name":null,
+             "item":{
+                "id":2,
+                "name":"Respons Terbuka",
+                "type":"subjective"
+             }
+          },
+          "construct":[
+ 
+          ],
+          "lts":[
+ 
+          ],
+          "competency_level":"1"
+       },
+       "source":{
+          "by":"Penerbitan Pelangi Sdn. Bhd",
+          "type":"pelangi",
+          "reference_name":"Focus UPSR Tahun 4, 5, 6",
+          "reference_type":"Book",
+          "contributor_name":null,
+          "contributor_type":null
+       }
+    },
+    {
+       "question":{
+          "id":"6138",
+          "code":"EQUPSRMT006138",
+          "question":"Tukarkan waktu bertolak kepada sistem 24 jam.",
+          "file":null,
+          "score":"1.00",
+          "is_parent":false,
+          "parent_id":"6136"
+       },
+       "answer":[
+          {
+             "answer_option":null,
+             "is_correct_answer":"1"
+          }
+       ],
+       "scheme":{
+          "id":"25256",
+          "text":"jam 2215",
+          "content":null,
+          "file":"",
+          "seq":null,
+          "descriptionList":[
+             {
+                "text":"<div>10:15 p.m ➞ dalam sistem 24 jam</div>\r\n<div>= 10:15 + 12:00</div>\r\n<div>= jam 2215</div>",
+                "content":null,
+                "file":null
+             }
+          ]
+       },
+       "hint":[
+ 
+       ],
+       "properties":{
+          "type":"Child",
+          "name":null,
+          "category":"multiple",
+          "instrument":{
+             "type":{
+                "id":2,
+                "name":"Subjective"
+             },
+             "name":null,
+             "item":{
+                "id":2,
+                "name":"Respons Terbuka",
+                "type":"subjective"
+             }
+          },
+          "construct":[
+ 
+          ],
+          "lts":[
+ 
+          ],
+          "competency_level":"1"
+       },
+       "source":{
+          "by":"Penerbitan Pelangi Sdn. Bhd",
+          "type":"pelangi",
+          "reference_name":"Focus UPSR Tahun 4, 5, 6",
+          "reference_type":"Book",
+          "contributor_name":null,
+          "contributor_type":null
+       }
+    }
+ ]
