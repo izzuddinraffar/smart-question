@@ -33,7 +33,7 @@
             },
             onRelatedContent : function(){
             },
-            stuckHTML : '',
+            stuckHTML : 'Watch a video or use a hint.',
             relatedHTML : '<div style="font-weight:normal;color: #888D93;margin:16px 0px;" >Not Available</div>',
             hide :""  // "hint, description, mark"
 
@@ -322,8 +322,8 @@
                 var item = {};
                 item.selected = selected;
                 item.clicker = thiS;
-                // selected.find('.question-hint').show();
-                // selected.find('.question-action div[data-type="hint"]').hide();
+                selected.find('.question-hint').show();
+                selected.find('.question-action div[data-type="hint"]').hide();
                 set.onStuck.call(item);
             });
             selected.find('.btn-gethint').on('click', function(e){
